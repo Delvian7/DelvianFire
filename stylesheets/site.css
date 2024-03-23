@@ -1,0 +1,91 @@
+h1{
+    color: rgb(250, 10, 10);
+    
+}
+h2{
+    color: rgb(199, 115, 18);
+    text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p, li{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#banner{
+    background-color:rgb(31, 4, 44);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(241, 2, 2);
+    font-size:larger;
+    
+}
+
+
+#banner p{
+    margin: 0;
+}
+
+#nav{
+    background-color: rgb(19, 7, 4);
+    padding: 10px;
+    text-align: center;
+    
+}
+
+#nav a{
+    color:rgb(241, 18, 18);
+    text-decoration: none;
+    font-size:xx-large;
+    margin-right: 8px;
+    
+}
+
+#nav a:hover{
+    background-color: rgb(24, 9, 160);
+   
+}
+
+#footer{
+    background-color:rgb(0, 0, 0);
+    min-height: 150px;
+    text-align: center;
+}
+
+#footer a{
+    color: rgb(226, 0, 0);
+    text-decoration: overline;
+    text-align: center;
+    margin-right: 8px;
+    background-color: rgb(17, 3, 3);
+}
+
+#main, main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    color: rgb(248, 248, 248);
+    
+}
+
+html {
+    background-color: black;
+}
+
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: #ffffff; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+
+.my-button:hover {
+    background-color: #0056b3; 
+}
+
