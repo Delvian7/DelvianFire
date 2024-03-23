@@ -6,6 +6,9 @@ h2{
     color: rgb(199, 115, 18);
     text-decoration: underline;
 }
+h3{
+    color: #0b7ffc;
+}
 h1, h2, h3, h4, h5, h6{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
